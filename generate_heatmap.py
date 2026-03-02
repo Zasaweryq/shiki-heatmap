@@ -71,7 +71,7 @@ def level(v: int) -> int:
     if v <= 6: return 3
     return 4
 
-palette = ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"]
+palette = ["#ebedf0", "#dbeafe", "#93c5fd", "#3b82f6", "#1e3a8a"]
 
 cell = 10
 gap = 3
