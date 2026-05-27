@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="686" height="88" viewBox="0 0 686 88" role="img" aria-label="Shikimori activity heatmap">
-<rect x="0" y="26" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2025-05-27: 0 действий</title></rect>
 <rect x="0" y="39" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2025-05-28: 0 действий</title></rect>
 <rect x="0" y="52" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2025-05-29: 0 действий</title></rect>
 <rect x="0" y="65" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2025-05-30: 0 действий</title></rect>
@@ -364,4 +363,5 @@
 <rect x="676" y="0" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2026-05-24: 0 действий</title></rect>
 <rect x="676" y="13" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2026-05-25: 0 действий</title></rect>
 <rect x="676" y="26" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2026-05-26: 0 действий</title></rect>
+<rect x="676" y="39" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2026-05-27: 0 действий</title></rect>
 </svg>
