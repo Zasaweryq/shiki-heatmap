@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="686" height="88" viewBox="0 0 686 88" role="img" aria-label="Shikimori activity heatmap">
-<rect x="0" y="26" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2025-07-01: 0 действий</title></rect>
 <rect x="0" y="39" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2025-07-02: 0 действий</title></rect>
 <rect x="0" y="52" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2025-07-03: 0 действий</title></rect>
 <rect x="0" y="65" width="10" height="10" rx="2" ry="2" fill="#dbeafe"><title>2025-07-04: 1 действий</title></rect>
@@ -36,8 +35,8 @@
 <rect x="65" y="13" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2025-08-04: 0 действий</title></rect>
 <rect x="65" y="26" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2025-08-05: 0 действий</title></rect>
 <rect x="65" y="39" width="10" height="10" rx="2" ry="2" fill="#3b82f6"><title>2025-08-06: 4 действий</title></rect>
-<rect x="65" y="52" width="10" height="10" rx="2" ry="2" fill="#3b82f6"><title>2025-08-07: 5 действий</title></rect>
-<rect x="65" y="65" width="10" height="10" rx="2" ry="2" fill="#93c5fd"><title>2025-08-08: 3 действий</title></rect>
+<rect x="65" y="52" width="10" height="10" rx="2" ry="2" fill="#3b82f6"><title>2025-08-07: 4 действий</title></rect>
+<rect x="65" y="65" width="10" height="10" rx="2" ry="2" fill="#3b82f6"><title>2025-08-08: 4 действий</title></rect>
 <rect x="65" y="78" width="10" height="10" rx="2" ry="2" fill="#dbeafe"><title>2025-08-09: 1 действий</title></rect>
 <rect x="78" y="0" width="10" height="10" rx="2" ry="2" fill="#dbeafe"><title>2025-08-10: 1 действий</title></rect>
 <rect x="78" y="13" width="10" height="10" rx="2" ry="2" fill="#dbeafe"><title>2025-08-11: 1 действий</title></rect>
@@ -232,12 +231,12 @@
 <rect x="429" y="13" width="10" height="10" rx="2" ry="2" fill="#93c5fd"><title>2026-02-16: 3 действий</title></rect>
 <rect x="429" y="26" width="10" height="10" rx="2" ry="2" fill="#dbeafe"><title>2026-02-17: 1 действий</title></rect>
 <rect x="429" y="39" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2026-02-18: 0 действий</title></rect>
-<rect x="429" y="52" width="10" height="10" rx="2" ry="2" fill="#3b82f6"><title>2026-02-19: 6 действий</title></rect>
+<rect x="429" y="52" width="10" height="10" rx="2" ry="2" fill="#3b82f6"><title>2026-02-19: 5 действий</title></rect>
 <rect x="429" y="65" width="10" height="10" rx="2" ry="2" fill="#dbeafe"><title>2026-02-20: 1 действий</title></rect>
 <rect x="429" y="78" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2026-02-21: 0 действий</title></rect>
 <rect x="442" y="0" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2026-02-22: 0 действий</title></rect>
 <rect x="442" y="13" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2026-02-23: 0 действий</title></rect>
-<rect x="442" y="26" width="10" height="10" rx="2" ry="2" fill="#93c5fd"><title>2026-02-24: 3 действий</title></rect>
+<rect x="442" y="26" width="10" height="10" rx="2" ry="2" fill="#3b82f6"><title>2026-02-24: 4 действий</title></rect>
 <rect x="442" y="39" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2026-02-25: 0 действий</title></rect>
 <rect x="442" y="52" width="10" height="10" rx="2" ry="2" fill="#93c5fd"><title>2026-02-26: 2 действий</title></rect>
 <rect x="442" y="65" width="10" height="10" rx="2" ry="2" fill="#dbeafe"><title>2026-02-27: 1 действий</title></rect>
@@ -364,4 +363,5 @@
 <rect x="676" y="0" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2026-06-28: 0 действий</title></rect>
 <rect x="676" y="13" width="10" height="10" rx="2" ry="2" fill="#3b82f6"><title>2026-06-29: 4 действий</title></rect>
 <rect x="676" y="26" width="10" height="10" rx="2" ry="2" fill="#ebedf0"><title>2026-06-30: 0 действий</title></rect>
+<rect x="676" y="39" width="10" height="10" rx="2" ry="2" fill="#93c5fd"><title>2026-07-01: 3 действий</title></rect>
 </svg>
